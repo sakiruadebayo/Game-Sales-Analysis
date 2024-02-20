@@ -17,6 +17,7 @@ The analysis was conducted using Microsoft Excel due to its robust data manipula
 
 Key Findings
 - The analysis revealed a shift in platform popularity over time, with newer platforms gaining market share.
+- Most successful platform globally is PS2 with 1,244,160,000 sales.
 - Certain genres, such as Action and Sports, consistently rank high in sales across all regions except Japan where Role-Playing rank highest.
 - Sales trends indicate a significant variance in game preferences between Western and Japanese markets.
 - Publisher analysis highlighted the dominance of a few key players in the industry, though indie publishers have shown remarkable growth in specific niches.
