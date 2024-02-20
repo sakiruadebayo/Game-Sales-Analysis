@@ -22,6 +22,8 @@ Key Findings
 - Sales trends indicate a significant variance in game preferences between Western and Japanese markets.
 - Publisher analysis highlighted the dominance of a few key players in the industry, though indie publishers have shown remarkable growth in specific niches.
 - Nintendo is the most successful publisher across all regions except the rest of the world where Electronic Arts is the most successful.
+- The most successful platfrom varies across all the region, X360 is the most successful in North America, PS3 is the most successful in Europe,  DS is the most successful in Japan and PS2 is the most successful for the rest of the world.
+
 
 ## Tools Used
 Microsoft Excel: Data cleaning, manipulation, and analysis were performed using Excel, leveraging features such as PivotTables, charts, and advanced formulas for in-depth insights.
