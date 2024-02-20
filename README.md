@@ -10,3 +10,8 @@ The aim of this project is to uncover insights into the gaming industry's dynami
 This analysis dataset was sourced from Kaggle's "Video Game Sales" dataset, which includes video game sales information across Japan, Europe, North America, and other regions, spanning several decades. It features data on genres, game titles, sales figures, platforms, and publishers.
 ## Tools Used
 Microsoft Excel: Data cleaning, manipulation, and analysis were performed using Excel, leveraging features such as PivotTables, charts, and advanced formulas for in-depth insights.
+## Methodology
+
+- Data Cleaning: Standardizing game names, filtering out incomplete records, and handling missing values.
+- Data Aggregation: Using PivotTables to summarize sales data by publisher, platform, region, and genre.
+- Visualization: Creating charts and graphs to visualize trends and patterns in the data, including line charts for time series analysis, stacked column charts for sales composition, and pie charts for market share analysis.
