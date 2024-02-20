@@ -8,10 +8,18 @@ The aim of this project is to uncover insights into the gaming industry's dynami
 - Regional Sales Analysis: Examine how game sales vary by region.
 ## Data Source
 This analysis dataset was sourced from Kaggle's "Video Game Sales" dataset, which includes video game sales information across Japan, Europe, North America, and other regions, spanning several decades. It features data on genres, game titles, sales figures, platforms, and publishers.
-## Tools Used
-Microsoft Excel: Data cleaning, manipulation, and analysis were performed using Excel, leveraging features such as PivotTables, charts, and advanced formulas for in-depth insights.
 ## Methodology
+The analysis was conducted using Microsoft Excel due to its robust data manipulation, calculation, and visualization capabilities. Key steps in the analysis process included:
 
 - Data Cleaning: Standardizing game names, filtering out incomplete records, and handling missing values.
 - Data Aggregation: Using PivotTables to summarize sales data by publisher, platform, region, and genre.
 - Visualization: Creating charts and graphs to visualize trends and patterns in the data, including line charts for time series analysis, stacked column charts for sales composition, and pie charts for market share analysis.
+
+Key Findings
+- The analysis revealed a shift in platform popularity over time, with newer platforms gaining market share.
+- Certain genres, such as Action and Sports, consistently rank high in sales across all regions except Japan where Role-Playing rank highest.
+- Sales trends indicate a significant variance in game preferences between Western and Japanese markets.
+- Publisher analysis highlighted the dominance of a few key players in the industry, though indie publishers have shown remarkable growth in specific niches.
+
+## Tools Used
+Microsoft Excel: Data cleaning, manipulation, and analysis were performed using Excel, leveraging features such as PivotTables, charts, and advanced formulas for in-depth insights.
