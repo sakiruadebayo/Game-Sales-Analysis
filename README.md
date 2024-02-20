@@ -21,6 +21,7 @@ Key Findings
 - Certain genres, such as Action and Sports, consistently rank high in sales across all regions except Japan where Role-Playing rank highest.
 - Sales trends indicate a significant variance in game preferences between Western and Japanese markets.
 - Publisher analysis highlighted the dominance of a few key players in the industry, though indie publishers have shown remarkable growth in specific niches.
+- Nintendo is the most successful publisher across all regions except the rest of the world where Electronic Arts is the most successful.
 
 ## Tools Used
 Microsoft Excel: Data cleaning, manipulation, and analysis were performed using Excel, leveraging features such as PivotTables, charts, and advanced formulas for in-depth insights.
