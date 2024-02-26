@@ -27,3 +27,6 @@ Key Findings
 
 ## Tools Used
 Microsoft Excel: Data cleaning, manipulation, and analysis were performed using Excel, leveraging features such as PivotTables, charts, and advanced formulas for in-depth insights.
+
+## Conclusions and Recommendations
+The video game industry continues to evolve, with changing consumer preferences and technological advancements shaping market dynamics. Stakeholders should consider regional preferences and emerging trends in platform and genre popularity when making strategic decisions. Further research could explore the impact of digital sales and online gaming trends.
